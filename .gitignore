@@ -36,7 +36,7 @@
 modules.builtin
 Module.symvers
 *.dwo
-
+restart/
 #
 # Top-level generic files
 #
