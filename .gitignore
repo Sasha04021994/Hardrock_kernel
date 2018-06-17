@@ -37,6 +37,7 @@ modules.builtin
 Module.symvers
 *.dwo
 restart/
+*.rej
 #
 # Top-level generic files
 #
